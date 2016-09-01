@@ -6,6 +6,7 @@
 (3)循环结构（for/next）,分支结构(if/elseif/ end if)<br>
 (4)字符串数组的长度：length = UBound(a) - LBound(a) + 1<br>
 (5)在VBA中赋值运算符和逻辑运算符（等于）都是用“=”,而不是像C语言中的逻辑运算符判断两个数是否相等用的“==”。<br>
+(6）综合知识点：如何将某一列中的重复的内容都清空。
 [知识点对应的参考程序](https://github.com/whdcumt/BaiduCloudTree)<br>
 
 
